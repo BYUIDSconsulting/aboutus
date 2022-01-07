@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: BYU-I Data Science
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Connecting companies to the next generation of data science practioners.
+intro_image: "images/illustrations/mountain.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Collaborating with BYU-I DS
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Connecting companies to the next generation of data science practitioners.

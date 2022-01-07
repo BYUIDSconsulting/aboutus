@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Problem Ideation",
+    "description": "Let our team help your company understand if your project is ready to leverage data.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "A Hiring Pipeline",
+    "description": "Start with society projects, leverage student consulting teams, take interns, and hire prepared data scientists.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Your Needs are the Curriculum",
+    "description": "Our broad curriculum background allows our students to tackle any data science project.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

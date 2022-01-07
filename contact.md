@@ -4,13 +4,12 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+We work on a three-semester track. Our classes and students usually like at least a three week lead on work that would start the following semester.  Some opportunities are can have up to a six month waiting list.  
 
-| Day       | Opening Hours   |
+| Semester  | Period          |
 | --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Winter    | January - April |
+| Spring    | May - July      |
+| Fall      | September - December |
+
+We work in tandem with the [Research and Business Development Center](https://www.rbdcenter.org/data-analytics/) which can be contacted for details as well. 
