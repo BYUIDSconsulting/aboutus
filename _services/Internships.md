@@ -5,7 +5,7 @@ featured: true
 weight: 3
 ---
 
-Each major is required to complete an internship before graduation.  You get the opportunity to test them out in your team.
+Each major is required to complete an internship before graduation. You get the opportunity to test them out in your team.
 
 ## BYU-I Track System
 

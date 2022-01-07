@@ -6,4 +6,4 @@ weight: 6
 layout: service
 ---
 
-Our faculty have broad experience working in industry.  If your project requires a more seasoned skillset we can build a faculty lead experience at todays consulting rates.
+Our faculty has broad experience working in industry.  If your project requires a more seasoned skillset, we can build a faculty lead experience at today's consulting rates.

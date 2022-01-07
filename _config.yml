@@ -1,4 +1,4 @@
-baseurl: '/aboutus'
+baseurl: '/aboutus/'
 permalink: pretty
 title: 'Data Science'
 

@@ -5,20 +5,20 @@ featured: true
 weight: 2
 ---
 
-The Data Science Consulting class works in tandem with [The Research and Business Development Center](https://www.rbdcenter.org/data-analytics/) to deliver client specific needs with our Senior class students.  These projects are important to the students and to you.  We want the results to make a business impact.
+The Data Science Consulting class works in tandem with [The Research and Business Development Center](https://www.rbdcenter.org/data-analytics/) to deliver client-specific needs with our Senior class students. These projects are essential to the students and you. We want the results to make a business impact.
 
 
 ## Details
 
 - __Hours:__ Each team supplies 30-40 hours a week of focused work on your project.   The projects last 12 weeks.
-- __Skill Level:__ Most of the students are Seniors with course work completed in machine learning, statistical analysis, data wrangling, data visualization, database programming.  They have worked on multiple team based projects prior to this experience.  
+- __Skill Level:__ Most of the students are Seniors with course work completed in machine learning, statistical analysis, data wrangling, data visualization, database programming. They have worked on multiple team-based projects before this experience.  
 
 ## Project Examples
 
-- We work from your SQL database through to the interactive dashboards with all the connections and interactions for your company needs.
-- We support proof-of-concept development for new business ventures. Supporting investigations into data sources and automation for client applications.
+- We work from your SQL database to the interactive dashboards with all the connections and interactions for your company needs.
+- We support proof-of-concept development for new business ventures - investigations into data sources and automation for client applications.
 - We develop, implement, and test predictive machine learning models for applications like store placement, customer retention, and product marketing.
-- We help your team build report and data automation routines to improve business decision making.  
+- We help your team build report and data automation routines to improve business decision-making.  
 
 ## Industry Clients
 
@@ -36,6 +36,6 @@ The Data Science Consulting class works in tandem with [The Research and Busines
 
 ## Expectations
 
-These student teams put in 8-10 hours per team member to complete a project that your company needs.  We work with your team to deliver on business needs to move your company forward. The Research and Business Development Center provides a technical project manager (TPM) to oversee the student team.  The faculty member managing the class is deeply involved in the project design and oversight. These projects cost ~$5k. 
+These student teams put in 8-10 hours per team member to complete a project that your company needs. We work with your team to deliver on business needs to move your company forward. The Research and Business Development Center provides a technical project manager (TPM) to oversee the student team. The faculty member managing the class is deeply involved in the project design and oversight. These projects cost ~$5k. 
 
 ![](../../images/photos/Westmark_Consulting_team_fall2019.jpg)
