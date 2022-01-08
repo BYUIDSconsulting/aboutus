@@ -2,10 +2,10 @@
 title: "Internships"
 date: 2018-11-28T15:15:26+10:00
 featured: true
-weight: 3
+weight: 4
 ---
 
-Each major is required to complete an internship before graduation. You get the opportunity to test them out in your team.
+Each data science student is required to complete an internship before graduation. You get the opportunity to test them out in your team.
 
 ## BYU-I Track System
 

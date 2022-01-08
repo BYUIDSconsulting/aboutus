@@ -36,6 +36,6 @@ The Data Science Consulting class works in tandem with [The Research and Busines
 
 ## Expectations
 
-These student teams put in 8-10 hours per team member to complete a project that your company needs. We work with your team to deliver on business needs to move your company forward. The Research and Business Development Center provides a technical project manager (TPM) to oversee the student team. The faculty member managing the class is deeply involved in the project design and oversight. These projects cost ~$5k. 
+These student teams put in 8-10 hours a week per team member to complete a project for you. We work with your team to deliver on business needs to move your company forward. The Research and Business Development Center provides a technical project manager (TPM) to oversee the student team. The faculty member managing the class is deeply involved in the project design and oversight. These projects cost ~$5k.
 
 ![](../../images/photos/Westmark_Consulting_team_fall2019.jpg)
