@@ -9,7 +9,7 @@ Companies interested in one-on-one collaboration where one student tackles your 
 
 ## Details
 
-_ __Hours:__ One student who works 9-18 hours a week. Generally, these students are hired as contractors.
+- __Hours:__ One student who works 9-18 hours a week. Generally, these students are hired as contractors.
 - __Skill Level:__ Specialized skills to meet your needs.
 
 ## Expectations
