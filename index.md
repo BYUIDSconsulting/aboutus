@@ -10,4 +10,4 @@ show_call_box: true
 
 # Collaborating with BYU-I DS
 
-Connecting companies to the next generation of data science practitioners
+Connecting companies to the next generation of data science practitioners. [Explore the other courses in our degree](https://byuidatascience.github.io/).

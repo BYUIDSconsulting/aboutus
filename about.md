@@ -17,4 +17,4 @@ Our students are well versed in Python, R, SQL, and dashboarding tools like Tabl
 
 ## Coursework
 
-You can review the full program at the [BYU-I Catalog](https://www.byui.edu/catalog/#/programs/41PwqJ9RZ). More details on the specific data science courses can be found [here](https://byuistats.github.io/).
+You can review the full program at the [BYU-I Catalog](https://www.byui.edu/catalog/#/programs/41PwqJ9RZ). More details on the specific data science courses can be found [here](https://byuidatascience.github.io/).
